@@ -10,7 +10,7 @@ Welcome to github documentation by hari!
    :maxdepth: 2
    :numbers:
    
-   sample_git.md
+   Samplegit.md
 
 
 
