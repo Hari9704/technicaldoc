@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Sample'
-copyright = '2021, cse'
-author = 'cse'
+project = 'Hari_git'
+copyright = '2021, cse41'
+author = 'Hariprasad'
 
 # The full version, including alpha/beta/rc tags
 release = '1'
